@@ -17,8 +17,8 @@ global.APIKeys = {
 //language 
 global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
 
-global.BOT_TOKEN = "6208942065:AAGx-r9ApBDQ0QT6RXGpHRqQmlQ0rQRtIdg" //create bot here https://t.me/BotFather and get the bot token
-global.BOT_NAME = "ᴇʟᴀɪɴᴀ ʀᴏʙᴏᴛ" //your bot name
+global.BOT_TOKEN = "6176939566:AAHcnb9ZRAu2jv1LrJ42Gnt3JEibnbNfjKs" //create bot here https://t.me/BotFather and get the bot token
+global.BOT_NAME = "Zero Robot" //your bot name
 global.OWNER_NAME = "𐂔⃬⃕ᴡᴀʜᴀʙ" //your name
 global.OWNER_NUMBER = "6282291943343" //your telegram number
 global.OWNER = ["https://t.me/Aku_Wahab", "@Aku_Wahab"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
